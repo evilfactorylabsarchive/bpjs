@@ -34,3 +34,15 @@ document.body.appendChild(FancyButton)
 ```
 
 That's it
+
+## Installation
+
+Make sure you have Yarn or NPM installed. To start install this framework,
+run this command in your terminal
+
+```bash
+$ yarn -v # or npm -v
+```
+
+If your terminal output something useful information (not command not found),
+it means the installation was succeed.
